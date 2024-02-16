@@ -6,7 +6,7 @@
 
 
 
-The Artificial Fish Algorithm is based on the collective behavior of fish in searching for food, where each fish represents a potential solution to the problem and moves in the search space to find the best possible solution.
+<div align="justify">The Artificial Fish Algorithm is based on the collective behavior of fish in searching for food, where each fish represents a potential solution to the problem and moves in the search space to find the best possible solution.
 
 AFSA utilize natural-inspired behaviors such as Swarm, Follow, Prey, and Movement to move towards a specific goal.
 
@@ -167,7 +167,7 @@ artificial fish (fish with best fitness value).
 <h4 align="center"> Fuzzy Autonomous Fish Membership functions</h4>
 </div>
 
-### result
+### Result:
 
 ---
 | Dataset       	| AF-Miner<br>(1) 	| FUF-Miner <br>(2) 	| FAF-Miner<br>(3) 	| P-Value<br>(1,2) 	| P-Value<br>(1,3) 	|
@@ -177,3 +177,9 @@ artificial fish (fish with best fitness value).
 |     Glass     	|      58.75      	| 59.05             	| 56.35            	| 0.720355         	| 0.00153          	|
 |   Ionosphere  	|      80.17      	| 81.76             	| 78.72            	| 0.113912         	| 0.183558         	|
 |    Segment    	|      76.29      	| 76.48             	| 79.97            	| 0.758780         	| 3.26262E-12      	|
+
+
+#### Refrences: 
+Yazdani, D., Nadjaran Toosi, A., Meybodi, M.R. (2010). Fuzzy Adaptive Artificial Fish Swarm Algorithm. In: Li, J. (eds) AI 2010: Advances in Artificial Intelligence. AI 2010. Lecture Notes in Computer Science(), vol 6464. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-17432-2_34
+
+Meifeng Zhang, Cheng Shao, Meijuan Li and Junman Sun, "Mining Classification Rule with Artificial Fish Swarm," 2006 6th World Congress on Intelligent Control and Automation, Dalian, 2006, pp. 5877-5881, doi: 10.1109/WCICA.2006.1714205.
