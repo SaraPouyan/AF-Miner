@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="./images/header_w.png" alt="Logo" width="" height="">
+</div>
+
 # <font color='#12E15D'>**WEKA towards machine learning with artificial fish-swarm algorithm and fuzzy systems**</font>
 <div align="justify">In this repository, combining of mining classification rules with artificial fish-swarm and adaptive methods based on fuzzy systems for controlling parameters have been investigated.<div/>
 
